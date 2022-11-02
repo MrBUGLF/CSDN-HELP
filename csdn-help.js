@@ -6,6 +6,8 @@
 // @author       liufei
 // @match        *://*.csdn.net/*
 // @require      tampermonkey://vendor/jquery.js
+// @updateURL    https://github.com/MrBUGLF/CSDN-HELP/blob/main/csdn-help.js
+// @downloadURL  https://github.com/MrBUGLF/CSDN-HELP/blob/main/csdn-help.js
 // @grant        GM_addStyle 
 // ==/UserScript==
 
